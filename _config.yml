@@ -1,6 +1,6 @@
 # Site Settings
-name: Blog of MinsooJang
-title: MinsooJang | my blog
+name: 장민수의 블로그
+title: MinsooJang
 description: Studying ML/DL/Optimization
 tags:
   - blog
@@ -25,10 +25,9 @@ disqus_username: MinsooJang
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: minsoojang
-facebook_username: facebook_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+# facebook_username: facebook_username
+# instagram_username: oooosnim
+# linkedin_username: linkedin_username
 
 
 # Posts Settings
@@ -97,6 +96,3 @@ exclude: [
   'gulpfile.js',
   'README.md'
 ]
-
-# Theme
-version: v3.1.0
